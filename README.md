@@ -4,15 +4,15 @@
 Olá! Meu nome é João Paulo e sou um entusiasta da programação em busca de aprender e crescer no mundo da tecnologia. Atualmente, estou dando os primeiros passos nesse incrível universo da programação, explorando diferentes linguagens e ferramentas.
 
 - 🌱 Estou aprendendo constantemente, buscando conhecimento em diversas áreas da programação.
-- 💻 Tenho interesse em [listar áreas de interesse, como desenvolvimento web, mobile, inteligência artificial, entre outros].
+- 💻 Tenho interesse em desenvolvimento web, mobile, inteligência artificial, entre outros.
 - 🔭 Estou procurando oportunidades para colaborar em projetos de código aberto e expandir meu conhecimento através da prática.
 
 ## Linguagens e Ferramentas
 Aqui estão algumas das tecnologias com as quais estou começando a me familiarizar:
 
-- Linguagens de Programação: [Object Pascal, Python, JavaScript]
-- Frameworks: [React]
-- Ferramentas: [Git, VS Code, Delphi]
+- Linguagens de Programação: Object Pascal, Python, JavaScript
+- Frameworks: React
+- Ferramentas: Git, VS Code, Delphi
 
 ## Objetivos Futuros
 Meus objetivos como programador iniciante incluem:
