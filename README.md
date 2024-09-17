@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AD11FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%9C+Welcome+to+my+GitHub%2C+feel+free!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fascinate+Inline&size=30&pause=1000&width=435&lines=Welcome+to+my+git+library!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
 
 
-<img src="assets\images\Principal.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
+<img src="assets\images\Principal.png" alt="Programmer amico" min-width="500px" max-width="500px" width="530px" >
 <!-- <img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
 <img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" > -->
 </div>
@@ -24,9 +24,10 @@
 
 🔧 Whether it's through projects, contributions, or new discoveries, I'm excited to share my journey and learn from the tech community!
 
-## 👋 Connect with me
+<div align="center">
+<!-- ## 👋 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-labussiere-frança-550937282/) 
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Labusse)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Labusse) -->
 
 ## 📚 Studying in this moment
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -51,3 +52,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
