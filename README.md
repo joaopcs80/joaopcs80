@@ -16,13 +16,13 @@
 
 # 🦦 About me
 
-👾 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
+👨‍💻 I'm João Paulo, a first-semester Software Developer student, passionate about pushing the boundaries of technology through constant learning.
 
-🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
+📚 My interests span software development, AI, machine learning, and cybersecurity, as I strive to stay ahead in this dynamic field.
 
-💼 Always open to new learning and collaboration opportunities! 
+🤝 Collaboration and continuous education are my guiding principles, and I'm always eager to connect with fellow tech enthusiasts.
 
-🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery! 
+🔧 Whether it's through projects, contributions, or new discoveries, I'm excited to share my journey and learn from the tech community!
 
 ## 👋 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-labussiere-frança-550937282/) 
@@ -34,14 +34,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopcs80&theme=github_dark&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JPLabussiereF&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopcs80&hide_title=true&border_color=8300ff&theme=github_dark&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JPLabussiereF&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joaopcs80&theme=github_dark&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 ## 🛠️ Tools
 
