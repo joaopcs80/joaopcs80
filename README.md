@@ -34,10 +34,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopcs80&theme=github_dark&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopcs80&theme=github_dark&layout=compact&bg_color=000&text_color=FFF)
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopcs80&hide_title=true&border_color=8300ff&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopcs80&hide_title=true&theme=github_dark&show_icons=true)
 
 ## 🔥 GitHub Streak
 
